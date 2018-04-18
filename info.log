@@ -1,0 +1,14 @@
+[2018-04-18T11:34:34.007] [INFO] info - 下载成功
+[2018-04-18T11:42:12.886] [INFO] info - 下载成功
+[2018-04-18T11:47:00.442] [INFO] info - 下载成功
+[2018-04-18T11:54:15.129] [ERROR] error - { Error: /offices2016/123.bat: No such file or directory
+    at makeError (C:\Users\83859\Desktop\WEB\auto\node_modules\_ftp@0.3.10@ftp\lib\connection.js:1067:13)
+    at Parser.<anonymous> (C:\Users\83859\Desktop\WEB\auto\node_modules\_ftp@0.3.10@ftp\lib\connection.js:113:25)
+    at emitTwo (events.js:126:13)
+    at Parser.emit (events.js:214:7)
+    at Parser._write (C:\Users\83859\Desktop\WEB\auto\node_modules\_ftp@0.3.10@ftp\lib\parser.js:59:10)
+    at doWrite (_stream_writable.js:387:12)
+    at writeOrBuffer (_stream_writable.js:373:5)
+    at Parser.Writable.write (_stream_writable.js:290:11)
+    at Socket.ondata (C:\Users\83859\Desktop\WEB\auto\node_modules\_ftp@0.3.10@ftp\lib\connection.js:273:20)
+    at emitOne (events.js:116:13) code: 550 }
